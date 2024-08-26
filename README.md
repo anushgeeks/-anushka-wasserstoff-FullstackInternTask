@@ -28,7 +28,10 @@ Once we have completed the development and styling, we'll deploy the weather app
 🔗 Helpful Resources 🔗
 
 React Documentation: https://reactjs.org/
+
 Create React App: https://create-react-app.dev/
+
 Weather API (e.g., OpenWeatherMap, Weatherbit): [Insert API links here]
+
 CSS Frameworks (e.g., Bootstrap, Tailwind CSS): [Insert framework links here]
 
