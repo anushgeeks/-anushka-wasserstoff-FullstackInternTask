@@ -1,4 +1,4 @@
-# -anushka-wasserstoff-FullstackInternTask
+# -anushka-FullstackTask
 Weather Forecast Application using ReactJs
 
 
